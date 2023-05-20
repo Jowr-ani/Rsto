@@ -324,7 +324,7 @@ section:nth-child(even){
 
 .about .container{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     margin-bottom: 2rem;
     
